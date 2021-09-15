@@ -1,6 +1,6 @@
-# NASA MARS ROVER API Vue.js App
+# NASA Mars Rover Vue.js App
 
-**Demo Site** [mars](https://nasa-mars-rover.vercel.app/rovers)
+**Demo Site** [Mars Rover Vue App](https://nasa-mars-rover.vercel.app/rovers)
 
 **Technologies**
 
